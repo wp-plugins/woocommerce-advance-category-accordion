@@ -1,9 +1,0 @@
-== Changelog ==
-
-Plugin Name: WooCommerce Advance Accordion
-
-=0.1=
-
-*  Stable 1.0 Initial Release.
-
-
