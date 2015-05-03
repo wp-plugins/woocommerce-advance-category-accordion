@@ -1,9 +1,0 @@
-== Changelog ==
-
-Plugin Name: WooCommerce Advance Accordion
-
-=0.1=
-
-*  Uninstall bug solved.
-
-
